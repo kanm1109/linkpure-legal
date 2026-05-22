@@ -1,0 +1,2 @@
+# linkpure-legal
+Extension
